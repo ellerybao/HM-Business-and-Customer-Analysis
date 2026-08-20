@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy>=1.26
+matplotlib>=3.10
+seaborn>=0.13
+mlxtend>=0.24
+squarify>=0.4
