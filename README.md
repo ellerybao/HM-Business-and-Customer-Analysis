@@ -34,7 +34,7 @@
 
 **技术栈**
 - Jupyter Notebook
-- Python(pandas, numpy, matplotlib, seaborn, squarify, mlxtend)
+- Python (pandas, numpy, matplotlib, seaborn, squarify, mlxtend)
 - Tableau
 
 **文件结构**
